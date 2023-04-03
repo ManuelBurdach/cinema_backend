@@ -1,0 +1,260 @@
+[
+  {
+    "turnover": 0,
+    "prices": {
+      "firstclass": 10,
+      "woodclass": 5
+    },
+    "seats": [
+      {
+        "seatNum": "1",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "2",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "3",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "4",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "5",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "6",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "7",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "8",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "9",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "10",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "11",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "12",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "13",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "14",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "15",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "16",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "17",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "18",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "19",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "20",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "21",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "22",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "23",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "24",
+        "status": "free",
+        "class": "woodclass"
+      }
+    ]
+  },
+  {
+    "turnover": 135,
+    "prices": {
+      "firstclass": 10,
+      "woodclass": 5
+    },
+    "seats": [
+      {
+        "seatNum": "1",
+        "status": "4690ec6e-0aa6-4b57-9dd1-df7fe3aa6325",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "2",
+        "status": "993be21b-55fb-4772-ad45-20cb7c9d6b57",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "3",
+        "status": "4090b6a8-c2e2-4389-ab99-497f1a80ae49",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "4",
+        "status": "07f64cbe-7383-4367-b713-371de41426e5",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "5",
+        "status": "6a4287e4-6f0f-48fc-b687-f83446a273d0",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "6",
+        "status": "13eabbc3-b3e0-4b6c-86c8-5ca4df807b34",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "7",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "8",
+        "status": "e801e575-f4b9-4338-a1c7-c825eb2f3264",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "9",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "10",
+        "status": "58d06e0c-7cd6-48fc-8a6c-8153d0805344",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "11",
+        "status": "free",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "12",
+        "status": "e0cf25c6-8d4f-41e2-bd95-23e5f4179c8f",
+        "class": "firstclass"
+      },
+      {
+        "seatNum": "13",
+        "status": "978fd618-73db-4c69-90c6-006ebc056d3e",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "14",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "15",
+        "status": "4c4197d8-0e15-4aca-9187-60f11f2a6087",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "16",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "17",
+        "status": "70db9395-67a6-4c86-9eda-0edce6991a08",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "18",
+        "status": "free",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "19",
+        "status": "7fd9a94f-0456-4bff-b5b4-b15cc1524bd3",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "20",
+        "status": "cf825104-31a9-4b2b-91b6-420c12e5fbb1",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "21",
+        "status": "b7a21668-3d11-4805-9b0e-3b3399cc44c9",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "22",
+        "status": "e0ebb5d1-3f63-490e-a515-1fd192fe433b",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "23",
+        "status": "cc7ef2df-3f81-48da-b3c1-568f39625ace",
+        "class": "woodclass"
+      },
+      {
+        "seatNum": "24",
+        "status": "b4901c94-e0cb-4d66-8d7c-a48987bc8359",
+        "class": "woodclass"
+      }
+    ]
+  }
+]
