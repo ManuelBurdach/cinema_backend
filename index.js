@@ -4,7 +4,7 @@ import cors from "cors";
 // import "./config/config.js";
 import { edit, load, reset } from "./util/webStorage.js";
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 7777;
 
 const app = express();
 

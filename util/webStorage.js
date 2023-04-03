@@ -1,7 +1,7 @@
 import fs from "fs";
 import { v4 as uuidv4 } from "uuid";
 
-const STORAGE_PATH = process.env.STORAGE_PATH || "./storage.json";
+const STORAGE_PATH = "./storage.json";
 
 export const load = () => {
   return new Promise((resolve, reject) => {
