@@ -129,7 +129,7 @@
     ]
   },
   {
-    "turnover": 135,
+    "turnover": 145,
     "prices": {
       "firstclass": 10,
       "woodclass": 5
@@ -137,7 +137,7 @@
     "seats": [
       {
         "seatNum": "1",
-        "status": "4690ec6e-0aa6-4b57-9dd1-df7fe3aa6325",
+        "status": "8eaa83c3-7db9-4a8a-be1c-edd8e6fa4f49",
         "class": "firstclass"
       },
       {
